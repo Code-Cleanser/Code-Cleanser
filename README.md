@@ -12,5 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Hey Y'all! Im Kamil, known online as Code Cleanser. What I do is, suprisingly enough, cleans some code. I help create jailbreaks, tweaks, and practically anything that involes code. 
-You can contact me at - email - code.cleanser@gmail.com
+Ken
